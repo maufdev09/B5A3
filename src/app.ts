@@ -15,7 +15,7 @@ app.use("/api", borrowRoutes)
 
 
 app.get("/",(req:Request,res:Response)=>{
-res.send("Hello world")
+res.send("Hello this is book management librery")
 })
 
 
